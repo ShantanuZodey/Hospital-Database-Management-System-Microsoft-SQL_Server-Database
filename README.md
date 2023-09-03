@@ -31,7 +31,7 @@ The Hospital Database Management System is a comprehensive solution designed to 
   - Empower hospital management with data-driven insights.
  
 - **Entity Relationship Diagram**
-    
+    ![image](https://github.com/ShantanuZodey/Hospital-Database-Management-System-Microsoft-SQL_Server-Database/assets/91444890/84788627-ff25-486e-aa11-d4cec21a6c42)
 
 ## Installation
 
